@@ -2,7 +2,7 @@
 
 > A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Modal systems and their applications in security operations.
 
-Found this resource helpful for your security research? Consider adding a star â­ to support the ongoing curation effort.
+Found this resource helpful for your security research? Consider adding a star ⭐ to support the ongoing curation effort.
 
 ## Contents
 
@@ -139,13 +139,14 @@ Software tools that implement AI for security applications.
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Open-source LLM red teaming tool for finding and fixing vulnerabilities. 100+ attack types, 250k+ users.
 - [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - MLflow-focused red team toolsuite for attacking ML pipelines and infrastructure.
 - [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanning tool specifically designed for Model Context Protocol servers.
-- [GAUNTLEX](https://github.com/sanjoy1234/gauntlex) - Concurrent Builder + Breaker agents generate code and adversarial security tests at the same instant, producing an Adversarial Resilience Score gated in CI â€” tests the spec, not just the shipped code.
+- [GAUNTLEX](https://github.com/sanjoy1234/gauntlex) - Concurrent Builder + Breaker agents generate code and adversarial security tests at the same instant, producing an Adversarial Resilience Score gated in CI — tests the spec, not just the shipped code.
+
+- [SkillHawk](https://github.com/Berserk-hub150/skillhawk) - Zero-dependency static security scanner for Agent Skills, SKILL.md files, and MCP configurations; flags prompt injection, unsafe shell behavior, credential access, privilege escalation, and data-exfiltration patterns without executing the target.
 
 ### Learning Environments
 
 - [Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware) - Reinforcement learning environment enabling malware manipulation for AV bypass learning.
 - [Deep-pwning](https://github.com/cchio/deep-pwning) - Framework for assessing ML model robustness against adversarial attacks through systematic evaluation.
-- [SkillHawk](https://github.com/Berserk-hub150/skillhawk) - Zero-dependency static security scanner for Agent Skills, SKILL.md files, and MCP configurations; flags prompt injection, unsafe shell behavior, credential access, privilege escalation, and data-exfiltration patterns without executing the target.
 
 ## Security Agents
 
